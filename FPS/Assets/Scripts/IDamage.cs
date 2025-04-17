@@ -1,3 +1,4 @@
+//mark
 using UnityEngine;
 
 public interface IDamage
