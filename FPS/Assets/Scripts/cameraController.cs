@@ -1,3 +1,5 @@
+//Mark Bennett
+
 using UnityEngine;
 
 public class cameraController : MonoBehaviour

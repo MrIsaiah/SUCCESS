@@ -956,7 +956,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.18583326, y: -0.017679797, z: 0.0029339243, w: -0.9831431}
     speed: 2
-    m_Value: {x: -0.18583326, y: -0.017679797, z: 0.0029339243, w: -0.9831431}
+    m_Value: {x: -0.18570095, y: -0.01766721, z: 0.0029318354, w: -0.9824431}
   m_Size:
     m_Target: 4.9586706
     speed: 2
@@ -1033,7 +1033,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: ce3e0000
       m_LastClickedID: 0
       m_ExpandedIDs: 26fbffff
       m_RenameOverlay:
@@ -1106,7 +1106,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
